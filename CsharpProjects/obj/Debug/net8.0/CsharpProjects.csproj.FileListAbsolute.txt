@@ -1,0 +1,14 @@
+C:\Users\RidimaShakya\source\repos\CsharpProjects\CsharpProjects\bin\Debug\net8.0\CsharpProjects.exe
+C:\Users\RidimaShakya\source\repos\CsharpProjects\CsharpProjects\obj\Debug\net8.0\CsharpProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RidimaShakya\source\repos\CsharpProjects\CsharpProjects\obj\Debug\net8.0\CsharpProjects.AssemblyInfoInputs.cache
+C:\Users\RidimaShakya\source\repos\CsharpProjects\CsharpProjects\obj\Debug\net8.0\CsharpProjects.AssemblyInfo.cs
+C:\Users\RidimaShakya\source\repos\CsharpProjects\CsharpProjects\obj\Debug\net8.0\CsharpProjects.csproj.CoreCompileInputs.cache
+C:\Users\RidimaShakya\source\repos\CsharpProjects\CsharpProjects\obj\Debug\net8.0\CsharpProjects.dll
+C:\Users\RidimaShakya\source\repos\CsharpProjects\CsharpProjects\obj\Debug\net8.0\refint\CsharpProjects.dll
+C:\Users\RidimaShakya\source\repos\CsharpProjects\CsharpProjects\obj\Debug\net8.0\CsharpProjects.pdb
+C:\Users\RidimaShakya\source\repos\CsharpProjects\CsharpProjects\bin\Debug\net8.0\CsharpProjects.deps.json
+C:\Users\RidimaShakya\source\repos\CsharpProjects\CsharpProjects\bin\Debug\net8.0\CsharpProjects.runtimeconfig.json
+C:\Users\RidimaShakya\source\repos\CsharpProjects\CsharpProjects\bin\Debug\net8.0\CsharpProjects.dll
+C:\Users\RidimaShakya\source\repos\CsharpProjects\CsharpProjects\bin\Debug\net8.0\CsharpProjects.pdb
+C:\Users\RidimaShakya\source\repos\CsharpProjects\CsharpProjects\obj\Debug\net8.0\CsharpProjects.genruntimeconfig.cache
+C:\Users\RidimaShakya\source\repos\CsharpProjects\CsharpProjects\obj\Debug\net8.0\ref\CsharpProjects.dll
