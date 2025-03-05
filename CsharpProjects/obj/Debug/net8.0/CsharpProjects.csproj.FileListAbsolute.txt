@@ -12,3 +12,4 @@ C:\Users\RidimaShakya\source\repos\CsharpProjects\CsharpProjects\bin\Debug\net8.
 C:\Users\RidimaShakya\source\repos\CsharpProjects\CsharpProjects\bin\Debug\net8.0\CsharpProjects.pdb
 C:\Users\RidimaShakya\source\repos\CsharpProjects\CsharpProjects\obj\Debug\net8.0\CsharpProjects.genruntimeconfig.cache
 C:\Users\RidimaShakya\source\repos\CsharpProjects\CsharpProjects\obj\Debug\net8.0\ref\CsharpProjects.dll
+C:\Users\RidimaShakya\source\repos\CsharpProjects\CsharpProjects\obj\Debug\net8.0\CsharpProjects.sourcelink.json
