@@ -97,3 +97,4 @@ C:\Users\RidimaShakya\source\repos\CsharpProjects\smallAttackGame\obj\Debug\net8
 C:\Users\RidimaShakya\source\repos\CsharpProjects\smallAttackGame\obj\Debug\net8.0\smallAttackGame.pdb
 C:\Users\RidimaShakya\source\repos\CsharpProjects\smallAttackGame\obj\Debug\net8.0\smallAttackGame.genruntimeconfig.cache
 C:\Users\RidimaShakya\source\repos\CsharpProjects\smallAttackGame\obj\Debug\net8.0\ref\smallAttackGame.dll
+C:\Users\RidimaShakya\source\repos\CsharpProjects\smallAttackGame\obj\Debug\net8.0\smallAttackGame.sourcelink.json

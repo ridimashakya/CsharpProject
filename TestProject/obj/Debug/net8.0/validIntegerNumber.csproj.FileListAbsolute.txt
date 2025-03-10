@@ -97,3 +97,4 @@ C:\Users\RidimaShakya\source\repos\CsharpProjects\TestProject\obj\Debug\net8.0\r
 C:\Users\RidimaShakya\source\repos\CsharpProjects\TestProject\obj\Debug\net8.0\validIntegerNumber.pdb
 C:\Users\RidimaShakya\source\repos\CsharpProjects\TestProject\obj\Debug\net8.0\validIntegerNumber.genruntimeconfig.cache
 C:\Users\RidimaShakya\source\repos\CsharpProjects\TestProject\obj\Debug\net8.0\ref\validIntegerNumber.dll
+C:\Users\RidimaShakya\source\repos\CsharpProjects\TestProject\obj\Debug\net8.0\validIntegerNumber.sourcelink.json
