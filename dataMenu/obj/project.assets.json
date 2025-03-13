@@ -5514,9 +5514,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RidimaShakya\\source\\repos\\CsharpProjects\\dataMenu\\dataMenu.csproj",
-      "projectName": "dataMenu",
-      "projectPath": "C:\\Users\\RidimaShakya\\source\\repos\\CsharpProjects\\dataMenu\\dataMenu.csproj",
+      "projectUniqueName": "C:\\Users\\RidimaShakya\\source\\repos\\CsharpProjects\\dataMenu\\petsStore.csproj",
+      "projectName": "petsStore",
+      "projectPath": "C:\\Users\\RidimaShakya\\source\\repos\\CsharpProjects\\dataMenu\\petsStore.csproj",
       "packagesPath": "C:\\Users\\RidimaShakya\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\RidimaShakya\\source\\repos\\CsharpProjects\\dataMenu\\obj\\",
       "projectStyle": "PackageReference",

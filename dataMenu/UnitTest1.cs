@@ -104,12 +104,38 @@ do
                 Console.WriteLine("\n");
             }
 
+            readResult = Console.ReadLine();
+
             break;
 
         case "2":
-            Console.WriteLine("this app feature is coming soon - please check back to see progress.");
-            Console.WriteLine("Press the Enter key to continue.");
+            int petCount = 0;
+            string anotherPet = "y";
+
+            for(int i = 0; i < maxPets; i++)
+            {
+                if (!string.IsNullOrEmpty(ourAnimals[i, 0]))
+                {
+                    petCount += 1;
+                }
+            }
+
+            if(petCount < maxPets)
+            {
+                Console.WriteLine($"We currently have {petCount} pets that needs home. We can manage {(maxPets - petCount)} more.");
+            }
+
+            while(anotherPet == "y" && petCount < maxPets)
+            {
+                petCount++;
+                if(petCount < maxPets)
+                {
+                    Console.WriteLine("Do you want to enter info for another pet (y/n)");
+                }
+            }
+
             readResult = Console.ReadLine();
+
             break;
 
         case "3":

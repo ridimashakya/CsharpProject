@@ -18,7 +18,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "validString", "validString\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stringArrayProcessing", "stringArrayProcessing\stringArrayProcessing.csproj", "{0D2B8625-B059-45CE-836C-550F2F4A2E45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dataMenu", "dataMenu\dataMenu.csproj", "{0DE5CF89-F4BB-4472-B63A-1F550D847562}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "petsStore", "dataMenu\petsStore.csproj", "{0DE5CF89-F4BB-4472-B63A-1F550D847562}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
